@@ -24,3 +24,5 @@ conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvi
 
 pip install opencv-contrib-python
 
+pip install ultralytics
+
