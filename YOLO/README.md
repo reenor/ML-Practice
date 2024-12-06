@@ -22,3 +22,5 @@ conda install nvidia/label/cuda-12.4.1::cuda-toolkit (https://anaconda.org/nvidi
 
 conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
 
+pip install opencv-contrib-python
+
