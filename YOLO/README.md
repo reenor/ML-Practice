@@ -2,6 +2,8 @@
 
 ## Windows Installation
 
+Update Nvidia drivers to the latest.
+
 In PyCharm IDE, create a virtual environment as follows:
 
 - Conda with python version 3.12
@@ -19,4 +21,4 @@ pip install ultralytics
 ```
 
 > In order to use PyTorch with an NVIDIA GPU, all we need to do is install PyTorch binaries and start using it as PyTorch is shipped with everything in-built
-> (PyTorch binaries include CUDA, CuDNN, NCCL, MKL, etc.)
+> (PyTorch binaries include CUDA Toolkit, CuDNN, NCCL, MKL, etc.)
